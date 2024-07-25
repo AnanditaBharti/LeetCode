@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AnanditaBharti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/AnanditaBharti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Divide and Conquer
 |  |
