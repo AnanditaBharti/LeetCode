@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AnanditaBharti/LeetCode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/AnanditaBharti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0136-single-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AnanditaBharti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnanditaBharti/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
