@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
 | [1293-three-consecutive-odds](https://github.com/AnanditaBharti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
