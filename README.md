@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/AnanditaBharti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnanditaBharti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/AnanditaBharti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Divide and Conquer
@@ -176,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
