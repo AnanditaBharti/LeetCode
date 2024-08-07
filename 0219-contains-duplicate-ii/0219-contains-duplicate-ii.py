@@ -10,3 +10,4 @@ class Solution:
                     dict1.update({nums[i]:i})
             else:
                 dict1.update({nums[i]:i})
+        return False
