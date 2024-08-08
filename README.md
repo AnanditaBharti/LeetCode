@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -196,10 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/AnanditaBharti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
+| [1236-n-th-tribonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
