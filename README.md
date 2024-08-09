@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AnanditaBharti/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnanditaBharti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanditaBharti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
@@ -211,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
