@@ -29,23 +29,12 @@ class Solution {
         if(root.left!=null && isLeaf(root.left))
         {
             x+=root.left.val;
-            //System.out.println("1 - "+x);
         }
         else
         {
             x+=sumOfLeftLeaves(root.left);
-            //System.out.println("2 - "+x);
         }
-        // if(root.right!=null && isLeaf(root.right))
-        // {
-        //     x+=root.right.val;
-        //     System.out.println("3 - "+x);
-        // }
-        // else
-        // {
-            x+=sumOfLeftLeaves(root.right);
-            //System.out.println("4 - "+x);
-        // }
+        x+=sumOfLeftLeaves(root.right);
         return x;
     }
 }
