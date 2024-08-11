@@ -1,10 +1,5 @@
 class Solution:
     def islandPerimeter(self, grid: List[List[int]]) -> int:
-        # i=0
-        # j=0
-        # while(True):
-        #     while(j<grid[0].length and grid[i][j]==0):
-                # j+=1
         peri=0
         for i in range(0,len(grid)):
             for j in range(0,len(grid[0])):
