@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnanditaBharti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AnanditaBharti/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
 ## Breadth-First Search
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnanditaBharti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnanditaBharti/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
