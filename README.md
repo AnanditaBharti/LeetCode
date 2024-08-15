@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AnanditaBharti/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/AnanditaBharti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AnanditaBharti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnanditaBharti/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnanditaBharti/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AnanditaBharti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnanditaBharti/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AnanditaBharti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AnanditaBharti/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
