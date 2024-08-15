@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnanditaBharti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/AnanditaBharti/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnanditaBharti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnanditaBharti/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnanditaBharti/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AnanditaBharti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AnanditaBharti/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [1764-maximum-repeating-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
