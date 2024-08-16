@@ -27,7 +27,6 @@ class Solution {
                 hs.add(s1+"->"+i);
             }
         }
-        //String s2=""+root.val;
         if(root.right !=null)
         {
             for(String i:binaryTreePaths(root.right))
