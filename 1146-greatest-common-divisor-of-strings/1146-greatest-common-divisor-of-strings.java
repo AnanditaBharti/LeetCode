@@ -7,14 +7,6 @@ class Solution {
           return gcd(b,a%b);
     }
     public String gcdOfStrings(String str1, String str2) {
-        // if(str1.length()>str2.length())
-        // {
-        //     String temp=str2;
-        //     while(temp.length<str1.length())
-        //     {
-        //         temp+=str2;
-        //     }
-        // }
         int a=str1.length();
         int b=str2.length();
         int com=gcd(a,b);
