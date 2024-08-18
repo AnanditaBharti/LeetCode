@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnanditaBharti/LeetCode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnanditaBharti/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1764-maximum-repeating-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/AnanditaBharti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
