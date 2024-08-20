@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AnanditaBharti/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AnanditaBharti/LeetCode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
+| [0605-can-place-flowers](https://github.com/AnanditaBharti/LeetCode/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnanditaBharti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/AnanditaBharti/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/AnanditaBharti/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/AnanditaBharti/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/AnanditaBharti/LeetCode/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Trie
 |  |
