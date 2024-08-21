@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/AnanditaBharti/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AnanditaBharti/LeetCode/tree/master/0455-assign-cookies) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AnanditaBharti/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AnanditaBharti/LeetCode/tree/master/0409-longest-palindrome) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
