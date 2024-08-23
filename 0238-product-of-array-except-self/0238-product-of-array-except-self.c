@@ -8,7 +8,6 @@ int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
         product*=nums[i];
     }
     int* result=(int*)malloc(sizeof(int)*numsSize);
-    // returnSize=(int*)malloc(sizeof(int)*numsSize);
     for(int i=0;i<numsSize;i++)
     {
         if (nums[i]!=0)
