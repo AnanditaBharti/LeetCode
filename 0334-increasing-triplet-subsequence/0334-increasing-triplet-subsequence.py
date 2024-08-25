@@ -6,7 +6,7 @@ class Solution:
                 a=j
             if j>a and j<b:
                 b=j
-            if j>a and j>b:
+            if j>b:
                 return True
         return False
         
