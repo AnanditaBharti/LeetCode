@@ -1,6 +1,6 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        a,b,c=max(nums)+1,max(nums)+1,max(nums)+1
+        a,b=max(nums)+1,max(nums)+1
         for j in nums:
             if j<a:
                 a=j
