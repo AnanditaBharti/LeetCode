@@ -10,16 +10,15 @@ class Solution {
         for (int i = 1; i < nums.length; i++) {
             pow2[i] = (pow2[i - 1] * 2) % mod;
         }
-        for(int i=0;i<nums.length;i++)//i=0
+        for(int i=0;i<nums.length;i++)
         {
             if(nums[i]>target)
               break;
-            // int j=i;//j=3
-            while(j>=i && nums[i]+nums[j]>target)
+           while(j>=i && nums[i]+nums[j]>target)
                j--;
             if(j>=i){
-            //    j=j-i;
-               count=(count+pow2[j-i])%mod;
+                count=(count+pow2[j-i])%mod;
+            //    count=(count+(int)Math.pow(2,j-i))%mod;
             }
             else
               break;
