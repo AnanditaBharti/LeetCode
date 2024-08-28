@@ -32,7 +32,6 @@ class Solution {
                 res+=count;
                 
         }
-        // System.out.println(res);
         for (int i=0;i<res.length();i++)
         {
             chars[i]=res.charAt(i);
