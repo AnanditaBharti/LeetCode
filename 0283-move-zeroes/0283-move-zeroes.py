@@ -5,8 +5,8 @@ class Solution:
         """
         if len(nums)<2:
             return
-        i,j=0,0 #[4 2 4 0 0 3 0 5 1 0]
-        while(j<len(nums) and i<=j): # i=3 , j=1
+        i,j=0,0 
+        while(j<len(nums) and i<=j):
             while(i<len(nums) and nums[i]!=0):
                 i+=1
             j=i
