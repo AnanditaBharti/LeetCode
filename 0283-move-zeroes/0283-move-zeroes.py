@@ -13,6 +13,7 @@ class Solution:
             while(j<len(nums) and nums[j]==0):
                 j+=1
             if(i<len(nums) and j<len(nums)):
-                temp=nums[i]
-                nums[i]=nums[j]
-                nums[j]=temp
+                # temp=nums[i]
+                # nums[i]=nums[j]
+                # nums[j]=temp
+                nums[i],nums[j]=nums[j],nums[i]
