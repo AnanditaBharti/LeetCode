@@ -14,11 +14,6 @@ class Solution {
         int res=0;
         for(int i:hm.keySet())
         {
-            System.out.println(i+" "+hm.get(i));
-        }
-        for(int i:hm.keySet())
-        {
-            System.out.println(i+" "+hm.get(i));
             int a=k-i;
             if(i!=a && hm.containsKey(a))
             {
