@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AnanditaBharti/LeetCode/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/AnanditaBharti/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/AnanditaBharti/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/AnanditaBharti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnanditaBharti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/AnanditaBharti/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnanditaBharti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AnanditaBharti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
