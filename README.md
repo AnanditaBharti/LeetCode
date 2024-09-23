@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnanditaBharti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnanditaBharti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/AnanditaBharti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnanditaBharti/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AnanditaBharti/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnanditaBharti/LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/AnanditaBharti/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnanditaBharti/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Database
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnanditaBharti/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/AnanditaBharti/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanditaBharti/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -324,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnanditaBharti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
