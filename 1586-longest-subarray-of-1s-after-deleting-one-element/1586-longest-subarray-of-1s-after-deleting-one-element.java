@@ -27,7 +27,7 @@ class Solution {
                 }
                 if(temp>maxLength){
                    maxLength = temp;
-                   System.out.println(leftPointer+" "+i);
+                //    System.out.println(leftPointer+" "+i);
                 }
             }
             else if(!zeroDropped)
