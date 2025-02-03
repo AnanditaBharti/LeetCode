@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnanditaBharti/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/AnanditaBharti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2727-number-of-senior-citizens](https://github.com/AnanditaBharti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -332,4 +333,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnanditaBharti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/AnanditaBharti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
