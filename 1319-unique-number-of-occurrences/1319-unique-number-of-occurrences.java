@@ -10,11 +10,19 @@ class Solution {
                 countOccurenceOfEachElement.put(ele,1);
             }
         }
-        Set<Integer> uniqueOccurence = countOccurenceOfEachElement.values().stream().distinct()
-               .collect(Collectors.toSet());
-        if ( uniqueOccurence.size() == countOccurenceOfEachElement.size()) 
-           return true ;
-        else 
-           return false ;
+        // Set<Integer> uniqueOccurence = countOccurenceOfEachElement.values().stream().distinct()
+        //        .collect(Collectors.toSet());
+        Set<Integer> uniqueOccurence = new HashSet<>();
+        for(Integer eleOccurence : countOccurenceOfEachElement.values()){
+            if(uniqueOccurence.contains(eleOccurence)){
+                return false;
+            }
+            uniqueOccurence.add(eleOccurence) ;
+        }
+        return true;
+        // if ( uniqueOccurence.size() == countOccurenceOfEachElement.size()) 
+        //    return true ;
+        // else 
+        //    return false ;
     }
 }
