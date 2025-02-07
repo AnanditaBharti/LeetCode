@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/AnanditaBharti/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AnanditaBharti/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/AnanditaBharti/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AnanditaBharti/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanditaBharti/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AnanditaBharti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/AnanditaBharti/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Linked List
 |  |
 | ------- |
