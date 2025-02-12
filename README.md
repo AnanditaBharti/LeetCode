@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/AnanditaBharti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/AnanditaBharti/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2470-removing-stars-from-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/AnanditaBharti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Divide and Conquer
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnanditaBharti/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Tree
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AnanditaBharti/LeetCode/tree/master/0258-add-digits) |
 | [2428-equal-row-and-column-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
