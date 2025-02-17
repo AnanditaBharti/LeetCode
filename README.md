@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/AnanditaBharti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AnanditaBharti/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/AnanditaBharti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AnanditaBharti/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/AnanditaBharti/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
