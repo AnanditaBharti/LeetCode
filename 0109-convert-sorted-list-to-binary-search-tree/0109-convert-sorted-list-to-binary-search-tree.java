@@ -42,7 +42,6 @@ class Solution {
             list.add(head.val);
             head = head.next;
         }
-        // list.stream().forEach(System.out::println);
         return helper(list, 0, list.size() - 1);
     }
 }
