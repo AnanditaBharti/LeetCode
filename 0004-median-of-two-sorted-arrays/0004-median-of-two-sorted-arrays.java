@@ -15,25 +15,18 @@ class Solution {
         if (n == 0) {
             return (m % 2 == 0)? (nums2[mid - 1] + nums2[mid]) / 2.0 : (double) nums2[mid];
         }
-
-        int nums1Mid = -1;
-        int nums2Mid = -1;
         
-        nums1Mid = n / 2;
-        nums2Mid = mid - nums1Mid - 1;
+        int nums1Mid = n / 2;
+        int nums2Mid = mid - nums1Mid - 1;
 
         while (nums1Mid >= 0 &&  nums2Mid < (m - 1) && nums1[nums1Mid] > nums2[nums2Mid + 1]) {
             nums1Mid --;
             nums2Mid ++;
-            // if (nums1Mid < 0 || nums2Mid == m)
-            //     break;
         }
 
         while (nums2Mid >= 0 &&  nums1Mid < (n - 1) && nums2[nums2Mid] > nums1[nums1Mid + 1]) {
             nums1Mid ++;
             nums2Mid --;
-            // if (nums2Mid < 0 || nums1Mid == n)
-            //     break;
         }
 
         if ((n + m) % 2 == 0) {
@@ -47,22 +40,18 @@ class Solution {
             if (nums1[nums1Mid] > nums2[nums2Mid]) {
                 ele += nums1[nums1Mid];
                 if (nums1Mid > 0){
-                    // nums1Mid --;
                     ele += Math.max(nums1[nums1Mid - 1], nums2[nums2Mid]);
                 }
                 else {
-                    // nums2Mid --;
                     ele += nums2[nums2Mid];
                 }
             }
             else {
                 ele += nums2[nums2Mid];
                 if (nums2Mid > 0){
-                    // nums2Mid --;
                     ele += Math.max(nums1[nums1Mid], nums2[nums2Mid - 1]);
                 }
                 else {
-                    // nums1Mid --;
                     ele += nums1[nums1Mid];
                 }
             }
