@@ -1,99 +1,78 @@
 class Solution {
-    public double evenLengthMedian(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        int mid1 = (n + m) / 2 - 1;
-        int mid2 = (n + m) / 2;
-        int ptr1 = 0;
-        int ptr2 = 0;
-        int index = 0;
-        int result = 0;
-        boolean gotMid1 = false;
-        while (ptr1 < n && ptr2 < m) {
-            if (nums1[ptr1] <= nums2[ptr2]) {
-                if (index == mid1) {
-                    result += nums1[ptr1];
-                    gotMid1 = true;
-                }
-                else if (index == mid2) {
-                    result += nums1[ptr1];
-                    return result / 2.0;
-                }
-                ptr1 ++;
-            }
-            else {
-                if (index == mid1) {
-                    result += nums2[ptr2];
-                    gotMid1 = true;
-                }
-                else if (index == mid2) {
-                    result += nums2[ptr2];
-                    return result / 2.0;
-                }
-                ptr2 ++;
-            }
-            index ++;
-        }
-        if (ptr1 >= n) {
-            if (gotMid1) {
-                result += nums2[ptr2 + mid2 - index];
-                return result / 2.0;
-            }
-            else {
-                result = nums2[ptr2 + mid1 - index] + nums2[ptr2 + mid2 - index];
-                return result / 2.0;
-            }
-        }
-        else {
-            if (gotMid1) {
-                result += nums1[ptr1 + mid2 - index];
-                return result / 2.0;
-            }
-            else {
-                result = nums1[ptr1 + mid1 - index] + nums1[ptr1 + mid2 - index];
-                return result / 2.0;
-            }
-        }
-    }
-    public double oddLengthMedian(int[] nums1, int[] nums2) {
-        int n = nums1.length;
-        int m = nums2.length;
-        int mid = (n + m) / 2;
-        int ptr1 = 0;
-        int ptr2 = 0;
-        int index = 0;
-        while (ptr1 < n && ptr2 < m) {
-            if (nums1[ptr1] <= nums2[ptr2]) {
-                if (index == mid) {
-                    return (double) nums1[ptr1];
-                }
-                ptr1 ++;
-            }
-            else {
-                if (index == mid) {
-                    return (double) nums2[ptr2];
-                }
-                ptr2 ++;
-            }
-            index ++;
-        }
-        if (ptr1 >= n) {
-            return nums2[ptr2 + (mid - index)];
-            // if (index == mid) {
-            //     return (double) nums2[ptr2];
-            // }
-            // index ++;
-            // ptr2 ++;
-        }
-        else {
-            return nums1[ptr1 + (mid - index)];
-        }
-    }
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        if ((nums1.length + nums2.length) % 2 == 0)
-            return evenLengthMedian(nums1, nums2);
-        else
-            return oddLengthMedian(nums1, nums2);
+        if (nums1 == null || nums2 == null)
+           return 0;
+        
+        int n = nums1.length;
+        int m = nums2.length;
+
+        if (n > m) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
+        int mid = (n + m) / 2;
+
+        if (n == 0) {
+            return (m % 2 == 0)? (nums2[mid - 1] + nums2[mid]) / 2.0 : (double) nums2[mid];
+        }
+
+        int nums1Mid = -1;
+        int nums2Mid = -1;
+        
+        nums1Mid = n / 2;
+        nums2Mid = mid - nums1Mid - 1;
+
+        while (nums1Mid >= 0 &&  nums2Mid < (m - 1) && nums1[nums1Mid] > nums2[nums2Mid + 1]) {
+            nums1Mid --;
+            nums2Mid ++;
+            // if (nums1Mid < 0 || nums2Mid == m)
+            //     break;
+        }
+
+        while (nums2Mid >= 0 &&  nums1Mid < (n - 1) && nums2[nums2Mid] > nums1[nums1Mid + 1]) {
+            nums1Mid ++;
+            nums2Mid --;
+            // if (nums2Mid < 0 || nums1Mid == n)
+            //     break;
+        }
+
+        if ((n + m) % 2 == 0) {
+            int ele = 0;
+            if (nums1Mid == -1) {
+                return (nums2[nums2Mid] + nums2[nums2Mid - 1]) / 2.0;
+            }
+            if (nums2Mid == -1) {
+                return (nums1[nums1Mid] + nums1[nums1Mid - 1]) / 2.0;
+            }
+            if (nums1[nums1Mid] > nums2[nums2Mid]) {
+                ele += nums1[nums1Mid];
+                if (nums1Mid > 0){
+                    // nums1Mid --;
+                    ele += Math.max(nums1[nums1Mid - 1], nums2[nums2Mid]);
+                }
+                else {
+                    // nums2Mid --;
+                    ele += nums2[nums2Mid];
+                }
+            }
+            else {
+                ele += nums2[nums2Mid];
+                if (nums2Mid > 0){
+                    // nums2Mid --;
+                    ele += Math.max(nums1[nums1Mid], nums2[nums2Mid - 1]);
+                }
+                else {
+                    // nums1Mid --;
+                    ele += nums1[nums1Mid];
+                }
+            }
+            return ele / 2.0;
+        }
+        if (nums1Mid == -1)
+            return nums2[nums2Mid];
+        if (nums2Mid == -1)
+            return nums1[nums1Mid];
+        return Math.max(nums1[nums1Mid], nums2[nums2Mid]);
         
     }
 }
