@@ -1,17 +1,17 @@
 class Solution {
-    public void helper(StringBuilder currString, int open, int close, int n, List<StringBuilder> res) {
-        if (open == n && close == n) {
-            res.add(currString);
-            return;
-        }
-        if (open < n) {
-            helper (new StringBuilder(currString + "("), open + 1, close, n, res) ;
-        }
-        if (close < open) {
-            helper (new StringBuilder(currString + ")"), open, close + 1, n, res) ;
-        }
+    // public void helper(StringBuilder currString, int open, int close, int n, List<StringBuilder> res) {
+    //     if (open == n && close == n) {
+    //         res.add(currString);
+    //         return;
+    //     }
+    //     if (open < n) {
+    //         helper (new StringBuilder(currString + "("), open + 1, close, n, res) ;
+    //     }
+    //     if (close < open) {
+    //         helper (new StringBuilder(currString + ")"), open, close + 1, n, res) ;
+    //     }
         
-    }
+    // }
 
 
     public List<String> generateParenthesis(int n) {
