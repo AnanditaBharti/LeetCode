@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnanditaBharti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AnanditaBharti/LeetCode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/AnanditaBharti/LeetCode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/AnanditaBharti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AnanditaBharti/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanditaBharti/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/AnanditaBharti/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/AnanditaBharti/LeetCode/tree/master/0455-assign-cookies) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AnanditaBharti/LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AnanditaBharti/LeetCode/tree/master/0392-is-subsequence) |
