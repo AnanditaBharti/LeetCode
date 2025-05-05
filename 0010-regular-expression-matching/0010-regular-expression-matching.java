@@ -52,13 +52,13 @@ class Solution {
             //     }
             }
         }
-        for(int i = 0; i <= s.length(); i++){
+        // for(int i = 0; i <= s.length(); i++){
 
-            for(int j = 0; j <= p.length(); j++){
-                System.out.print(dp[i][j]+",");
-            }
-            System.out.println();
-        }
+        //     for(int j = 0; j <= p.length(); j++){
+        //         System.out.print(dp[i][j]+",");
+        //     }
+        //     System.out.println();
+        // }
         return dp[s.length()][p.length()];
     }
 }
