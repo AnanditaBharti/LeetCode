@@ -10,14 +10,21 @@ class Solution {
                 stack.push(i);
             }
             else{
-                if(stack.peek() != start){
-                    int x = stack.pop();
-                    max = Math.max(max, i - stack.peek());
+                int x = stack.pop();
+                if(stack.isEmpty()){
+                    stack.push(i);
                 }
                 else{
-                    stack.push(i);
-                    start = i;
+                    max = Math.max(max, i - stack.peek());
                 }
+                // if(stack.peek() != start){
+                //     int x = stack.pop();
+                //     max = Math.max(max, i - stack.peek());
+                // }
+                // else{
+                //     stack.push(i);
+                //     start = i;
+                // }
             }
         }
         return max;
