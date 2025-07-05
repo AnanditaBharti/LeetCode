@@ -1,6 +1,5 @@
 class Solution {
     public int findLucky(int[] arr) {
-        // Arrays.sort(arr);
         HashMap<Integer,Integer> countOccurence = new HashMap<>(); 
         for(int i = 0; i < arr.length; i++){
             int key = arr[i];
