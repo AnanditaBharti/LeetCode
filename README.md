@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AnanditaBharti/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
 | [1873-longest-nice-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1873-longest-nice-substring) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Breadth-First Search
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Monotonic Stack
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnanditaBharti/LeetCode/tree/master/0258-add-digits) |
 | [2428-equal-row-and-column-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AnanditaBharti/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
