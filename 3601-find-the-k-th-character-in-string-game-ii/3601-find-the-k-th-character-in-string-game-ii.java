@@ -18,33 +18,6 @@ class Solution {
         }
     }
     public char kthCharacter(long k, int[] operations) {
-        // long totalSizeOfOutput = Math.pow(2, operations.length - 1);
         return helper(k, operations, operations.length - 1);
-
-
-
-        // StringBuilder z = new StringBuilder("a");
-        // for(int i = 0; i < operations.length; i++){
-        //     if(operations[i] == 0){
-        //         z.append(z.toString());
-        //     }
-        //     else{
-        //         StringBuilder temp = new StringBuilder();
-        //         for(int j = 0; j < z.length(); j++){
-        //             char c = z.charAt(j);
-        //             if(c == 'z'){
-        //                 temp.append("a");
-        //             }
-        //             else{
-        //                 temp.append((char)(c + 1)); 
-        //             }
-        //         }
-        //         z.append(temp);
-        //     }
-        //     if(z.length() >= k){
-        //         return z.charAt((int)(k - 1));
-        //     }
-        // }
-        // return z.charAt((int)(k - 1));
     }
 }
