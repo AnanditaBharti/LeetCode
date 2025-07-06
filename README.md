@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/AnanditaBharti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/AnanditaBharti/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1873-longest-nice-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1873-longest-nice-substring) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnanditaBharti/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
