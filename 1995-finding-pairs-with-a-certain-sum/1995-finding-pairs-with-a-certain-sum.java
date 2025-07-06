@@ -32,23 +32,6 @@ class FindSumPairs {
             }
         }
         return c;
-
-        // HashMap<Integer, Integer> ele = new HashMap<>();
-        // for(int i = 0; i < nums1.length; i++){
-        //     int temp = tot - nums1[i];
-        //     if(ele.containsKey(temp)){
-        //         ele.put(temp, ele.get(temp) + 1);
-        //     }
-        //     else{
-        //         ele.put(temp, 1);
-        //     }
-        // }
-        // for(int j = 0; j < nums2.length; j++){
-        //     if(ele.containsKey(nums2[j])){
-        //         c += ele.get(nums2[j]);
-        //     }
-        // }
-        // return c;
     }
 }
 
