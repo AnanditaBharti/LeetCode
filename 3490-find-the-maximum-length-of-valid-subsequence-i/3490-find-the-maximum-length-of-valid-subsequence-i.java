@@ -33,11 +33,6 @@ class Solution {
     }
     public int maximumLength(int[] nums) {
         int n = nums.length;
-        // int dp[][] = new int[n][2];
-        // int res = 0;
-        // for(int i = 0; i < n; i++){
-// 
-        // }
         return Math.max(oddSubsequenceLength(nums),
         Math.max(evenSubsequenceLength(nums),mixSubsequenceLength(nums)));
     }
