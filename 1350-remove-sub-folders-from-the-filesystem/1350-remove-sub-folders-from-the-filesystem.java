@@ -2,19 +2,6 @@ class Solution {
     public List<String> removeSubfolders(String[] folder) {
         Arrays.sort(folder);
         HashSet<String> folders = new HashSet<>();
-        // for(int i = 0; i < folder.length; i++){
-        //     Iterator<String> it = folders.iterator();
-        //     boolean subfolder = false;
-        //     while(it.hasNext()){
-        //         if(folder[i].contains(it.next())){
-        //             subfolder = true;
-        //             break;
-        //         }
-        //     }
-        //     if(!subfolder){
-        //         folders.add(folder[i]);
-        //     }
-        // }
         for(int i = 0; i < folder.length; i++){
             if(folder[i] != null){
                 folders.add(folder[i]);
