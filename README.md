@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/AnanditaBharti/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/AnanditaBharti/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AnanditaBharti/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnanditaBharti/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AnanditaBharti/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/AnanditaBharti/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1873-longest-nice-substring) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AnanditaBharti/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/AnanditaBharti/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanditaBharti/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnanditaBharti/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1813-maximum-erasure-value](https://github.com/AnanditaBharti/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
