@@ -4,7 +4,6 @@ class Solution {
         int maxSum = 0;
         int tempSum = 0;
         int startPtr = 0;
-        // int endPtr = 0;
         int n = nums.length;
         int cummulativeSum[] = new int[n];
         cummulativeSum[0] = nums[0];
