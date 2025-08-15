@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnanditaBharti/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnanditaBharti/LeetCode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/AnanditaBharti/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/AnanditaBharti/LeetCode/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AnanditaBharti/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AnanditaBharti/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AnanditaBharti/LeetCode/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/AnanditaBharti/LeetCode/tree/master/1873-longest-nice-substring) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AnanditaBharti/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AnanditaBharti/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/AnanditaBharti/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/AnanditaBharti/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AnanditaBharti/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
