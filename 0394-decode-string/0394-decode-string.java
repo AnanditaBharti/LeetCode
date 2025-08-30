@@ -22,14 +22,10 @@ class Solution {
                     for(int k = 0; k < subString2.length(); k++){
                         stack.push(subString2.charAt(k));
                     }
-                    // stack.push(subString2);
                 }
                 else{
                     result.append(subString2);
                 }
-                // for(int j = 0; j < repeat; j++){
-                //     subString2.add()
-                // }
             }
             else{
                 stack.push(curr);
