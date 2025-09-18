@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AnanditaBharti/LeetCode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/AnanditaBharti/LeetCode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/AnanditaBharti/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/AnanditaBharti/LeetCode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AnanditaBharti/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnanditaBharti/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnanditaBharti/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AnanditaBharti/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/AnanditaBharti/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/AnanditaBharti/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/AnanditaBharti/LeetCode/tree/master/0649-dota2-senate) |
 | [0917-boats-to-save-people](https://github.com/AnanditaBharti/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1448-maximum-69-number](https://github.com/AnanditaBharti/LeetCode/tree/master/1448-maximum-69-number) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AnanditaBharti/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AnanditaBharti/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AnanditaBharti/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/AnanditaBharti/LeetCode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/AnanditaBharti/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## String Matching
 |  |
