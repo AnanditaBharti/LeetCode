@@ -17,7 +17,6 @@ class Solution {
         ListNode ptr1 = head;
         ListNode ptr2 = evenHead;
         while(ptr2 != null && ptr2.next != null){
-            // if(ptr2.next.next != null){}
             ptr1.next = ptr1.next.next;
             ptr1 = ptr1.next;
             ptr2.next = ptr2.next.next;
