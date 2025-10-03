@@ -9,35 +9,31 @@
  * }
  */
 class Solution {
+    ListNode reverseLL(ListNode head){
+        ListNode curr = head;
+        ListNode prev = null;
+        while(curr != null){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        return prev;
+    }
     public int pairSum(ListNode head) {
-        int n = 0;
-        ListNode temp = head;
-        while(temp != null){
-            n++;
-            temp = temp.next;
+        ListNode ptr1 = head;
+        ListNode ptr2 = head;
+        while(ptr2 != null){
+            ptr1 = ptr1.next;
+            ptr2 = ptr2.next.next;
         }
-        // System.out.println(n);
-        int[] sum = new int[n / 2];
-        int count = 0;
-        temp = head;
-        while(count < n / 2){
-            // System.out.println(count % (n / 2));
-            sum[count] += temp.val;
-            count ++;
-            temp = temp.next;
-        }
-        count --;
-        while(count >= 0){
-            // System.out.println(count % (n / 2));
-            sum[count] += temp.val;
-            count --;
-            temp = temp.next;
-        }
-        int max = sum[0];
-        // System.out.println(sum[0]);
-        for(int i = 1; i < n / 2; i++){
-            max = Math.max(max, sum[i]);
-            // System.out.println(sum[i]);
+        ListNode half = reverseLL(ptr1);
+        ptr1 = head;
+        int max = Integer.MIN_VALUE;
+        while(half != null){
+            max = Math.max(max, ptr1.val + half.val);
+            ptr1 = ptr1.next;
+            half = half.next;
         }
         return max;
     }
