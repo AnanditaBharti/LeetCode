@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/AnanditaBharti/LeetCode/tree/master/0463-island-perimeter) |
+| [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnanditaBharti/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
