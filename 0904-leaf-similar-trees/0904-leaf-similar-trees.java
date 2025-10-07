@@ -39,41 +39,5 @@ class Solution {
                 return false;
         } 
         return true;
-        // List<Integer> root1LeafNodes = new LinkedList<>();
-        // Deque<TreeNode> x = new LinkedList<>();
-        // x.add(root1);
-        // while(!x.isEmpty()){
-        //     TreeNode temp = x.pop();
-        //     if(temp.left == null && temp.right == null){
-        //         root1LeafNodes.add(temp.val);
-        //     }
-        //     if(temp.right != null)
-        //         x.push(temp.right);
-        //     if(temp.left != null)
-        //         x.push(temp.left);
-            
-        // }
-        // // root1LeafNodes.stream().forEach(System.out::println);
-        // // List<Integer> root1LeafNodes = new LinkedList<>();
-        // Deque<TreeNode> y = new LinkedList<>();
-        // y.add(root2);
-        // while(!y.isEmpty()){
-        //     TreeNode temp = y.pop();
-        //     if(temp.left == null && temp.right == null){
-        //         // root1LeafNodes.add(temp);
-        //         int match = root1LeafNodes.removeFirst();
-        //         if(match != temp.val){
-        //             System.out.println("match = "+match+", temp.val = "+temp.val);
-        //             return false;
-        //         }
-        //     }
-        //     else if(temp.right != null)
-        //         y.add(temp.right);
-        //     else if(temp.left != null)
-        //         y.add(temp.left);
-        // }
-        // if(!root1LeafNodes.isEmpty())
-        //     return false;
-        // return true;
     }
 }
