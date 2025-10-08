@@ -14,22 +14,19 @@
  * }
  */
 class Solution {
-    int helper(TreeNode root, int x){
+    int dfs(TreeNode root, int maxSoFar){
         if(root == null)
             return 0;
         int count = 0;
-        if(root.val >= x){
+        if(root.val >= maxSoFar){
             count ++;
-            count += helper(root.left, root.val);
-            count += helper(root.right, root.val);
+            maxSoFar = root.val;
         }
-        else{
-            count += helper(root.left, x);
-            count += helper(root.right, x);
-        }
+        count += dfs(root.left, maxSoFar);
+        count += dfs(root.right, maxSoFar);
         return count;
     }
     public int goodNodes(TreeNode root) {
-        return helper(root, root.val);
+        return dfs(root, root.val);
     }
 }
