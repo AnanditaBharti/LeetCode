@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/AnanditaBharti/LeetCode/tree/master/0463-island-perimeter) |
 | [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AnanditaBharti/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AnanditaBharti/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/AnanditaBharti/LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/AnanditaBharti/LeetCode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/AnanditaBharti/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AnanditaBharti/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
