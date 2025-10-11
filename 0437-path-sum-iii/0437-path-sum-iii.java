@@ -26,9 +26,7 @@ class Solution {
         count += dfs(root.right, targetSum, currSum);
         return count;
     }
-    // int helper()
     public int pathSum(TreeNode root, int targetSum) {
-        // TreeNode temp = root;
         if(root == null){
             return 0;
         }
