@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    // LinkedHashMap<Integer, Integer> bfsTree = new LinkedHashMap<>();
     List<Integer> ans = new ArrayList<>();
     public void bfs(List<TreeNode> currLevelNodes){
         if(currLevelNodes.isEmpty())
@@ -22,8 +21,8 @@ class Solution {
         List<TreeNode> nextLevelNodes = new ArrayList<>();
         TreeNode rightMost = null;
         for(TreeNode t: currLevelNodes){
-            if(t == null)
-                continue;
+            // if(t == null)
+            //     continue;
             rightMost = t;
             if(t.left != null){
                 nextLevelNodes.add(t.left);
@@ -37,6 +36,8 @@ class Solution {
         bfs(nextLevelNodes);
     }
     public List<Integer> rightSideView(TreeNode root) {
+        if(root == null)
+            return new ArrayList<>();
         List<TreeNode> currLevelNodes = new ArrayList<>();
         currLevelNodes.add(root);
         bfs(currLevelNodes);
