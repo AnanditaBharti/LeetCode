@@ -21,8 +21,6 @@ class Solution {
         List<TreeNode> nextLevelNodes = new ArrayList<>();
         TreeNode rightMost = null;
         for(TreeNode t: currLevelNodes){
-            // if(t == null)
-            //     continue;
             rightMost = t;
             if(t.left != null){
                 nextLevelNodes.add(t.left);
