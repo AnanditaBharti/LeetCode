@@ -13,8 +13,6 @@ class Solution {
 
             originalPath.add(a + "->" + b);
 
-            // System.out.println("[" + a + "," + b + "]");
-
             adjList[a].add(b);
             adjList[b].add(a);
         }
@@ -26,7 +24,6 @@ class Solution {
         int changes = 0;
         for(int next : adjList[node]){
             if(!visited[next]){
-                // System.out.println("[" + node + "," + next + "]");
                 if(originalPath.contains(node + "->" + next))
                     changes ++;
                 changes += dfs(next, adjList, originalPath, visited);
