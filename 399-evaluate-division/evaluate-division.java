@@ -5,8 +5,6 @@ class Solution {
             List<String> eq = equations.get(i);
             String a = eq.get(0);
             String b = eq.get(1);
-            // graph.put(a, graph.getOrDefault(a, new HashMap<>()).put(b, values[i]));
-            // graph.getOrDefault(a, new HashMap<>()).put(b, values[i]);
             graph.putIfAbsent(a, new HashMap<>());
             graph.putIfAbsent(b, new HashMap<>());
 
@@ -26,15 +24,12 @@ class Solution {
                 result[i] = -1;
                 continue;
             }
-            // System.out.println(graph);
             Set<String> visited = new HashSet<>();
             result[i] = getPathDistance(graph, a, b, visited);
         }
         return result;
     }
     double getPathDistance(Map<String, Map<String, Double>> graph, String start, String destination, Set<String> visited){
-        // if(graph.get(start).containsKey(destination))
-        //     return graph.get(start).get(destination);
         visited.add(start);
         if(start.equals(destination))
             return 1;
