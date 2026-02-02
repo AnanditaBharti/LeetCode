@@ -1,6 +1,7 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        Set<String> freshOranges = new HashSet<>();
+        // Set<String> freshOranges = new HashSet<>();
+        int freshOranges = 0;
         Queue<int[]> rottenOranges = new LinkedList<>();
 
         int m = grid.length;
@@ -9,7 +10,7 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == 1)
-                    freshOranges.add(i + "," + j);
+                    freshOranges ++;
                 else if(grid[i][j] == 2)
                     rottenOranges.add(new int[]{i, j});
             }
@@ -18,7 +19,7 @@ class Solution {
         int[][] directions = {{-1, 0}, {0, -1}, {1, 0}, {0, 1}};
         int minutes = 0;
         while(!rottenOranges.isEmpty()){
-            if(freshOranges.isEmpty())
+            if(freshOranges == 0)
                 return minutes;
             minutes ++;
             int size = rottenOranges.size();
@@ -27,14 +28,16 @@ class Solution {
                 for(int[] dir: directions){
                     int row = cell[0] + dir[0];
                     int col = cell[1] + dir[1];
-                    if(row > -1 && row < m && col > -1 && col < n && freshOranges.contains(row + "," + col)){
-                        freshOranges.remove(row + "," + col);
+                    if(row > -1 && row < m && col > -1 && col < n && grid[row][col] == 1){
+                        // freshOranges.remove(row + "," + col);
+                        grid[row][col] = 2;
                         rottenOranges.add(new int[]{row, col});
+                        freshOranges --;
                     }
                 }
             }
         }
-        if(freshOranges.isEmpty())
+        if(freshOranges == 0)
             return minutes;
         return -1;
     }
