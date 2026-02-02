@@ -1,6 +1,5 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
-        // Set<String> freshOranges = new HashSet<>();
         int freshOranges = 0;
         Queue<int[]> rottenOranges = new LinkedList<>();
 
@@ -29,7 +28,6 @@ class Solution {
                     int row = cell[0] + dir[0];
                     int col = cell[1] + dir[1];
                     if(row > -1 && row < m && col > -1 && col < n && grid[row][col] == 1){
-                        // freshOranges.remove(row + "," + col);
                         grid[row][col] = 2;
                         rottenOranges.add(new int[]{row, col});
                         freshOranges --;
