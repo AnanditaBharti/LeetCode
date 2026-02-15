@@ -11,7 +11,6 @@ class SmallestInfiniteSet {
             queue.add(queue.peek() + 1);
         }
         int ans = queue.remove();
-        System.out.println(queue);
         return ans;
         
         
@@ -30,7 +29,6 @@ class SmallestInfiniteSet {
                 }
             }
         }
-        System.out.println(queue);
     }
 }
 
