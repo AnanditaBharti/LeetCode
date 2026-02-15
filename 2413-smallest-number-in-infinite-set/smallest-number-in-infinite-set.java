@@ -1,34 +1,48 @@
 class SmallestInfiniteSet {
+
     PriorityQueue<Integer> queue;
+    HashSet<Integer> set;
+    int current;
 
     public SmallestInfiniteSet() {
         queue = new PriorityQueue<>();
-        queue.add(1);
-    }
+        set = new HashSet<>();
+        current = 1;
+   }
     
     public int popSmallest() {
-        if(queue.size() == 1){
-            queue.add(queue.peek() + 1);
+        if(!queue.isEmpty()){
+            int ans = queue.remove();
+            set.remove(ans);
+            return ans;
         }
-        int ans = queue.remove();
-        return ans;
+        return current ++;
+        // if(queue.size() == 1){
+        //     queue.add(queue.peek() + 1);
+        // }
+        // int ans = queue.remove();
+        // return ans;
         
         
     }
     
     public void addBack(int num) {
-        if(num < queue.peek())
+        if(num < current && !set.contains(num)){
             queue.add(num);
-        else{
-            for(int i: queue){
-                if(i == num)
-                    return;
-                if(i > num){
-                    queue.add(num);
-                    return;
-                }
-            }
+            set.add(num);
         }
+        // if(num < queue.peek())
+        //     queue.add(num);
+        // else{
+        //     for(int i: queue){
+        //         if(i == num)
+        //             return;
+        //         if(i > num){
+        //             queue.add(num);
+        //             return;
+        //         }
+        //     }
+        // }
     }
 }
 
