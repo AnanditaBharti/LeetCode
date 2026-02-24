@@ -26,31 +26,11 @@ class Solution {
 
             if(first <= last){
                 lowestCost = leftMinHeap.poll();
-                // l ++;
             }
-            // else if(first == last){
-            //     if(leftMinHeap.peek() == rightMinHeap.peek()){
-            //         lowestCost = leftMinHeap.poll();
-            //         rightMinHeap.poll();
-            //         // l ++;
-            //         // r --;
-            //     }
-            //     else if(first < last){
-            //         lowestCost = leftMinHeap.poll();
-            //         // l ++;
-            //     }
-            //     else{
-            //         lowestCost = rightMinHeap.poll();
-            //         // r --;
-            //     }
-            // }
             else{
                 lowestCost = rightMinHeap.poll();
-                // r --;
             }
-            // if(l >= )
             totalCost += costs[lowestCost];
-            // System.out.println("i = " + i + " -> " + costs[lowestCost]);
         }
         return totalCost;
     }
