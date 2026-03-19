@@ -5,7 +5,6 @@ class Solution {
             return;
         }
         else if (k != 0 && n != 0){
-            // int last = (curr.isEmpty()) ? 1 : curr.get(curr.size() - 1) + 1 ;
             for(int i = (curr.isEmpty()) ? 1 : curr.get(curr.size() - 1) + 1; i < 10; i ++){
                 curr.add(i);
                 backTrack(k - 1, n - i, curr, list);
