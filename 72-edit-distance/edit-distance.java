@@ -1,0 +1,60 @@
+class Solution {
+    public int minDistance(String word1, String word2) {
+        int n = word1.length();
+        int m = word2.length();
+        int[][] dp = new int[n + 1][m + 1];
+
+        // System.out.println(word1);
+        for(int i = 1; i <= n; i++){
+            dp[i][0] = i;
+        }
+
+        // for(int i = 1; i <= n; i++){
+        //     for(int j = 1; j <= m; j++){
+        //         System.out.print(dp[i][j] + ", ");
+        //     }
+        //     System.out.println();
+        // }
+
+        // System.out.println(word2);
+        for(int i = 1; i <= m; i++){
+            dp[0][i] = i;
+        }
+
+// for(int i = 1; i <= n; i++){
+//             for(int j = 1; j <= m; j++){
+//                 System.out.print(dp[i][j] + ", ");
+//             }
+//             System.out.println();
+//         }
+
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= m; j++){
+                if(word1.charAt(i - 1) == word2.charAt(j - 1)){
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                else{
+                    int insert = 1 + dp[i][j - 1];
+                    int delete = 1 + dp[i - 1][j];
+                    int replace = 1 + dp[i - 1][j - 1];
+                    // if(i == 2 && j == 1){
+                    //     System.out.println("insert = " + insert);
+                    //     System.out.println("delete = " + delete);
+                    //     System.out.println("replace = " + replace);
+                    //     System.out.println("dp[i - i][j - 1] = " + dp[i - i][j - 1]);
+                    // }
+                    dp[i][j] = Math.min(insert, Math.min(delete, replace));
+                }
+            }
+        } 
+
+        // for(int i = 0; i <= n; i++){
+        //     for(int j = 0; j <= m; j++){
+        //         System.out.print(dp[i][j] + ", ");
+        //     }
+        //     System.out.println();
+        // }
+
+        return dp[n][m];
+    }
+}
